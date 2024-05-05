@@ -1,0 +1,1 @@
+This project uses GPU to implement the parllel calculation of a convolutional neural network
